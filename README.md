@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oatmilkies
-- 👀 I’m interested in learning web development
+- 👀 I am doing a bootcamp for web development
 - 🌱 I’m currently learning how to code in JavaScript
 - 💞️ I’m looking to collaborate on anything right now!
 - 📫 How to reach me ...
