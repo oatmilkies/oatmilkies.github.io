@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @oatmilkies
-- 👀 I am doing a bootcamp for web development
-- 🌱 I’m currently learning how to code in JavaScript
-- 💞️ I’m looking to collaborate on anything right now!
-- 📫 How to reach me ...
+# Hi, I’m Lani!
+
+- I'm a recent graduate from Lighthouse Labs
+- I'm a full stack developer with a slight preference for front end (I love shiny things)
+- Coding is fun!
+
 
 <!---
 oatmilkies/oatmilkies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
