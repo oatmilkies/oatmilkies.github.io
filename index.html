@@ -7,9 +7,24 @@
     <title>oatmilkies</title>
     <link rel="stylesheet" href="./style.css">
   </head>
-  <body>
+
+  <script>
+    const getDate = () => {
+      let x = document.lastModified;
+      document.getElementById("date").innerHTML = x;
+    }
+  </script>
+
+  <body onload="getDate()">
     <main>
-        <h1>Hi there</h1>  
+        <h1>Hi there</h1>
+        <div>
+          <p>This site is under construction</p>
+          <p>Check back soon!</p>
+        </div>
     </main>
+    <footer>
+      Last updated <span id="date"></span>
+    </footer>
 	</body>
 </html>
