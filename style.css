@@ -1,5 +1,39 @@
-h1, p {
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.heading {
   font-family: "B612 Mono", monospace;
   font-weight: 400;
   font-style: normal;
+  font-size: 46px;
+  margin: 2em;
+}
+
+.sm-heading {
+  font-family: "B612 Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 32px;
+}
+
+.message {
+  margin-left: 6em;
+}
+
+p {
+  font-family: "B612 Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  box-sizing: border-box;
 }
